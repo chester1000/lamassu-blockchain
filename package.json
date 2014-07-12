@@ -2,7 +2,7 @@
   "name": "lamassu-blockchain",
   "version": "0.1.0",
   "description": "Lamassu Blockchain module",
-  "main": "lib/index.js",
+  "main": "lib/index.coffee",
   "scripts": {
     "test": "tap ./test"
   },
